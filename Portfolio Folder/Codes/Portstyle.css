@@ -1,0 +1,127 @@
+body {
+	font-family: 'Courier New', monospace;
+	color: white;
+}
+
+.centerpara {
+	margin-right: 300px;
+	margin-left: 300px;
+	}
+	
+.candle {
+	background-image: url("C:/Users/16785/Documents/Portfolio Folder/Assets/Candle.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	backdrop-filter: blur(5px);
+}
+
+.centeri {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+	
+.bookshelf {
+	background-image: url('C:/Users/16785/Documents/Portfolio Folder/Assets/The_one.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	backdrop-filter: blur(5px);
+} 
+.books {
+	background-image: url("C:/Users/16785/Documents/Portfolio Folder/Assets/Mask_Scenecycles.png")
+	background-size: 50%;
+	background-repeat: no-repeat;
+	backdrop-filter: blur(5px);
+	min-height:100%;
+}
+	
+*{
+  margin:0;
+  padding:0;
+  font-family:verdana;
+}
+#transparent{
+  width:100%;
+  height:25vh;
+}
+nav{
+  width: 100%;
+  height: 70px;
+  background-color: #0005;
+  line-height: 50px;
+  font-family: Garamond;
+}
+nav ul{
+  float: right;
+  margin-right: 30px;
+}
+nav ul li{
+  list-style-type: none;
+  display: inline-block;
+  transition: 0.7s all;
+}
+nav ul li:hover{
+  background-color:#088;
+}
+nav ul li a{
+  text-decoration: none;
+  color: #fff;
+  padding: 50px;
+}
+
+fieldset {
+  margin: 10px;
+  padding: 0 10px 10px;
+  border: 1px solid #666;
+  border-radius: 8px;
+  box-shadow: 0 0 20px #666;
+  padding-top: 10px;
+  background-color: #5A5A5A;
+}
+
+	.headdiv {
+	border: 2px outset gray;
+	text-align: center;
+	border-style: outset;
+	font-family: Garamond;
+}
+
+.cooler {
+	background-image: url("C:/Users/16785/Documents/Portfolio Folder/Assets/Water_cooler.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	backdrop-filter: blur(5px);
+	}
+	
+	
+a {
+	text-decoration: none;
+	color: white;
+}
+
+p {
+	margin: 40px;
+}
+
+nav {
+	background: black;
+	color: white;
+}
+
+.right {
+	float:right;
+	width: 50%
+	}
+	
+.left {
+	float:left;
+	width: 50%;
+	}
+
+.center {
+	text-align: center;
+	float: center
+	}
+
+	
